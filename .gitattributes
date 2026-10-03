@@ -1,0 +1,10 @@
+# Project-specific overrides
+*.map linguist-generated
+*.jpeg binary
+*.woff2 binary
+
+*.yaml linguist-detectable=false
+public/index.html linguist-vendored
+app/*.tsx linguist-detectable
+*.ico binary
+app/**/*.tsx linguist-detectable
