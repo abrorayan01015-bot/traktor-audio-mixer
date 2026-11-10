@@ -1,0 +1,8 @@
+dist/
+.env.local
+.DS_Store
+*.tgz
+.next/
+.cache/
+.env
+yarn-error.log*
